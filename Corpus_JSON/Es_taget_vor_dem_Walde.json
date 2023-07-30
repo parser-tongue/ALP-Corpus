@@ -1,0 +1,35 @@
+{
+    "title": "Es taget vor dem Walde ",
+    "genre": "musical",
+    "topic": [
+        "love"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Es taget vor dem Walde\n",
+        "\n",
+        "Es taget vor dem walde,\n",
+        "stand uf, kätterlin!\n",
+        "die Hasen loufen balde,\n",
+        "stand uf, kätterlin.\n",
+        "holder buel, heioho!\n",
+        "du bist min, so bin ich din.\n",
+        "stand uf, kätterlin.\n",
+        "\n",
+        "Es taget in der ouwe,\n",
+        "stand uf, kätterlin!\n",
+        "schöns lieb, laß dich anschouwen,\n",
+        "stand uf, kätterlin.\n",
+        "holder buel, heioho!\n",
+        "du bist min, so bin ich din.\n",
+        "stand uf, kätterlin."
+    ],
+    "num_lines": 15,
+    "num_stanzas": 1,
+    "rhyme_scheme": "ababcbb",
+    "stanza_pattern": "septets",
+    "ID": 110,
+    "region": [
+        "Bern"
+    ]
+}

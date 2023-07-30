@@ -1,0 +1,52 @@
+{
+    "title": "Regine",
+    "genre": null,
+    "topic": [
+        "religion"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Regine gieng in Garte, \n",
+        "Wollt breche Röseli ab, \n",
+        "Die fine und die zarte, \n",
+        "Wo i dem Garte stan. \n",
+        "\n",
+        "Regine lueget ume, \n",
+        "Sah einen jungen Knab : \n",
+        "«Wo bist du ine kume? \n",
+        "'s ist Alles wohl vermacht.» \n",
+        "\n",
+        "« Kei Mur ist mir zu hoche, \n",
+        "Kei Schloß ist mir zu stark : \n",
+        "Ich bin der Herr Jesus selber, \n",
+        "Der Alles erschaffe hat. » \n",
+        "\n",
+        "« Bist du der Herr Jesus selber, \n",
+        "So gheiß mich mit dir cho ; \n",
+        "So will ich mit dir reise \n",
+        "In's ebige Himelrich. » \n",
+        "\n",
+        "«Willst du denn mit mir reise \n",
+        "In's ebige Himelrich, \n",
+        "So muest du dich schneewiß kleide, \n",
+        "Daß du bist den Engle glich. » \n",
+        "\n",
+        "«Wüsst das min Vater und Mueter, \n",
+        "Daß ich im Himel bi, \n",
+        "Si würded mi nit lang sueche, \n",
+        "Si chämed au dohi.» \n",
+        "\n",
+        "Herr Jesus schrieb es Briefli, \n",
+        "Schrieb nu drü einzigi Wort: \n",
+        "D' Regine sei im Himel, \n",
+        "Sei a me schönen Ort. \n"
+    ],
+    "num_lines": 34,
+    "num_stanzas": 6,
+    "rhyme_scheme": "abac",
+    "stanza_pattern": "quatrains",
+    "ID": 101,
+    "region": [
+        "Bern"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": null,
+    "genre": "epigram",
+    "topic": [
+        "death"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "O Herz, Voll Schmerz Und langer Zit \n",
+        "Lieb, Mis Lieb, Du bist gar wit. \n",
+        "I chlag Und mag Gar nümme si; \n",
+        "Chumm, Tod, Nit z' spôt, Nei, hol mi gli. \n",
+        "Nimm mi Und si, Nimm alli beid! \n",
+        "I gô Nur so in d' Ewigkeit. \n",
+        "\n"
+    ],
+    "num_lines": 6,
+    "num_stanzas": 1,
+    "rhyme_scheme": "aaaabc",
+    "stanza_pattern": "sestets",
+    "ID": 56,
+    "region": [
+        "Bern"
+    ]
+}

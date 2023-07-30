@@ -1,0 +1,33 @@
+{
+    "title": null,
+    "genre": null,
+    "topic": [
+        "farming"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Wenn die Bure z' Acher fahren, \n",
+        "Können wir die Schueh ersparen. \n",
+        "\n",
+        "Wenn die Bure mahn und schwitzen, \n",
+        "Können wir am Schatte sitzen. \n",
+        "\n",
+        "Wenn die Bure sich müend bücken, \n",
+        "Göhnd wir mit ufrechtem Rücken. \n",
+        "\n",
+        "Wenn die Bure früeh ufstehen, \n",
+        "Können wir im Bett uns drehen. \n",
+        "\n",
+        "Wenn die Bure Wide haue, \n",
+        "Sitzen wir daheim bi'n Fraue. \n",
+        "\n",
+        "U we die Bure metzge, \n",
+        "Su esse mir das Beste. "
+    ],
+    "num_lines": 17,
+    "num_stanzas": 5,
+    "rhyme_scheme": "aa",
+    "stanza_pattern": "couplets",
+    "ID": 66,
+    "region": "Bern"
+}

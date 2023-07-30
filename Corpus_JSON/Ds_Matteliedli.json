@@ -1,0 +1,38 @@
+{
+    "title": "Ds Matteliedli",
+    "genre": null,
+    "topic": [
+        "heimat",
+        "countryside"
+    ],
+    "source": "Edimuster",
+    "raw_text": [
+        "Ds Matteliedli\n",
+        "\n",
+        "Mir Lütli a dr Matte\n",
+        "hei geng e frohe Muet,\n",
+        "chöi fische,schifflifahre\n",
+        "u ds Läbe gfallt is guet.\n",
+        "\n",
+        "Gheit einisch eis i d'Aare\n",
+        "das isch doch öppe glych,\n",
+        "mir Mätteler chöi schwümme\n",
+        "u si nid wasserschüüch.\n",
+        "\n",
+        "U wär ig i dr Frömdi\n",
+        "grad wyt z'Amerika\n",
+        "u ghört ig ds Wasser ruusche\n",
+        "so chäm mi ds Briegge-n-a.\n",
+        "\n",
+        "I würd dr Büntel schnüere\n",
+        "u chäm dr Heimet zue,\n",
+        "ersch z'Bärn dert a dr Matte\n",
+        "chäm d'Längizyt zur Rueh!\n"
+    ],
+    "num_lines": 21,
+    "num_stanzas": 3,
+    "rhyme_scheme": "irregular",
+    "stanza_pattern": "quatrains",
+    "ID": 94,
+    "region": "Bern"
+}

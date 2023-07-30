@@ -1,0 +1,44 @@
+{
+    "title": "Herzhüseli, Herzhüseli ",
+    "genre": null,
+    "topic": [
+        "love"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Herzhüseli, Herzhüseli\n",
+        "\n",
+        "Herzhüseli, Herzhüseli, \n",
+        "Wie bist nur volle Freud, \n",
+        "Als wie ein magers Müseli, \n",
+        "Wann's d' Nuß in's Löchli treid, \n",
+        "Daß au den Winter fresse ka, \n",
+        "Mit Freuden mengest kerbe dra. \n",
+        "Herzhüseli, Herzhüseli, \n",
+        "Wie bist so volle Freud! \n",
+        "\n",
+        "Herzhüseli, Herzhüseli, \n",
+        "Du hest ja gar kes Leid, \n",
+        "Als wie ein läres Krüseli, \n",
+        "Wenn der Wihane kräit, \n",
+        "Umb das ein Jedre läpple thut, \n",
+        "'s dunkt au die alten Weiber gut. \n",
+        "Herzkrüseli, o Krüseli, \n",
+        "Du hest ja gar kes Leid. \n",
+        "\n",
+        "Es ist mir wohl gar grüseli \n",
+        "Bei einer düren Wurst; \n",
+        "Aus einem Schnäggehüseli \n",
+        "Trink ich und lösch der Durst. \n",
+        "Es wird mir drab gar grüseli wohl, \n",
+        "Ich weiß dann, wie ich tanzen soll. \n"
+    ],
+    "num_lines": 24,
+    "num_stanzas": 2,
+    "rhyme_scheme": "abacddab",
+    "stanza_pattern": "octets",
+    "ID": 23,
+    "region": [
+        "Luzern"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "title": "Anneli, wo bist gester gsi? ",
+    "genre": null,
+    "topic": [
+        "love",
+        "plants"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Anneli, wo bist gester gsi?\n",
+        "\n",
+        "»Anneli, wo bist gester gsi?«\n",
+        "»Hinder em Hus im Gärtli.«\n",
+        "»Säg was hest im Gärtli to?«\n",
+        "»Rösli pflückt und Majero,\n",
+        "Hinder em Hus im Gärtli.«\n",
+        "\n",
+        "»Anneli, wer ist bi der gsi\n",
+        "Hinder em Hus im Gärtli?«\n",
+        "»Denk, min Schatz, min liebe Schatz;\n",
+        "O wie gern gib ich em Platz\n",
+        "Hinder em Hus im Gärtli.« \n",
+        "\n",
+        "»Anneli, säg was händ er gredt\n",
+        "Hinder em Hus im Gärtli?«\n",
+        "»Gang und frög du d'Röseli,\n",
+        "D'Ilgen und de Rosmeri\n",
+        "Hinder em Hus im Gärtli.«\n",
+        "\n",
+        "»Anneli, sind er alli Tag\n",
+        "Hinder em Hus im Gärtli?«\n",
+        "»Ach min Schatz chunnt nümme meh,\n",
+        "Wird en schwerlich wieder gseh\n",
+        "Hinder em Hus im Gärtli.«"
+    ],
+    "num_lines": 23,
+    "num_stanzas": 3,
+    "rhyme_scheme": "aabba",
+    "stanza_pattern": "cinquains",
+    "ID": 44,
+    "region": [
+        "Zurich"
+    ]
+}

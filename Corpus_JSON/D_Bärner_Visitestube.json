@@ -1,0 +1,37 @@
+{
+    "title": "D Bärner Visitestube",
+    "genre": null,
+    "topic": [
+        "heimat",
+        "nation"
+    ],
+    "source": "Edimuster",
+    "raw_text": [
+        "D Bärner Visitestube\n",
+        "\n",
+        "Sächs Stube sy im Bärnerhus,\n",
+        "E jedi darf sech zeige,\n",
+        "'s het jedi öppis Schöns vorus\n",
+        "U Guets, o öppis eige:\n",
+        "Sygs ds Aemmetal, sygs ds Oberland,\n",
+        "Dr Oberaargau, ds Mittelland\n",
+        "Dr Jura, ds Seeland – alli sy,\n",
+        "Me möchti grad ga wohne dry.\n",
+        "\n",
+        "U doch isch \n",
+        "bsunders usstaffiert\n",
+        "Vo allne Stube eini,\n",
+        "E so mit Herrlechkeite ziert,\n",
+        "Wie die, isch wäger keini:\n",
+        "\"I muess halt, seit dr Bärnerma,\n",
+        "E Stube für d Visite ha!\"\n",
+        "U fründlech füehrt er d Gest bir Hand\n",
+        "Dür d Stägen uf, i ds Oberland!\n"
+    ],
+    "num_lines": 21,
+    "num_stanzas": 1,
+    "rhyme_scheme": "ababccbb",
+    "stanza_pattern": "octets",
+    "ID": 77,
+    "region": "Bern"
+}

@@ -1,0 +1,39 @@
+{
+    "title": null,
+    "genre": null,
+    "topic": [
+        "plants",
+        "love"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "I loß si grüeße dur e höchi Tanne : \n",
+        "die Zit isch cho zum wibe und zum manne. \n",
+        "\n",
+        "I loß si grüeße dur es Hämpfeli Tau: \n",
+        "i wött, mi Holdi war mi liebi Frau. \n",
+        "\n",
+        "I loß si grüeße dur es Nägeli: \n",
+        "i wött, i hätt's im Arm as Ärfeli. \n",
+        "\n",
+        "I loß si grüeße dur en Eichespô: \n",
+        "wött lieber bi-n-er ligge as so stô. \n",
+        "\n",
+        "I loß si grüeße dur es Chlungeli Fade: \n",
+        "i wött, i chömt scho bi-n-ere si im Gade. \n",
+        "\n",
+        "I loß si grüeße dur es Hämpfeli Side : \n",
+        "i mag's elleige' nümmeme verlide: \n",
+        "\n",
+        "I loß si grüeße dur es Rosmeri : \n",
+        "wött, aß i Tag und Nacht chönt bi-n-ere si. \n"
+    ],
+    "num_lines": 20,
+    "num_stanzas": 6,
+    "rhyme_scheme": "aa",
+    "stanza_pattern": "couplets",
+    "ID": 53,
+    "region": [
+        "unknown"
+    ]
+}

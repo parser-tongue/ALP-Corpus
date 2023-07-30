@@ -1,0 +1,40 @@
+{
+    "title": "Ich bin ein jung Soldat",
+    "genre": "narrative",
+    "topic": [
+        "war",
+        "death"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Ich bin ein jung Soldat\n",
+        "\n",
+        "Ich bin ein jung Soldate\n",
+        "Von einundzwanzig Jahre,\n",
+        "Geboren in der Schweiz,\n",
+        "Das ist mein Heimatland.\n",
+        "\n",
+        "Den Doktor holt geschwind,\n",
+        "Der mir zu Ader lasse,\n",
+        "Meine Lebenszeit ist aus.\n",
+        "Ich muß ins Totenhaus.\n",
+        "\n",
+        "Hier ligt mein Säbel und Gewehr\n",
+        "Und alle meine Kleider.\n",
+        "Jetzt kommen sie daher.\n",
+        "Ich bin kein Kriegsmann mehr.\n",
+        "\n",
+        "Mit Trommel- und Pfeifenspiel,\n",
+        "So sollt ihr mich begraben.\n",
+        "Drei Schütz ins stille Grab,\n",
+        "Die ich verdienet hab."
+    ],
+    "num_lines": 19,
+    "num_stanzas": 3,
+    "rhyme_scheme": "irregular",
+    "stanza_pattern": "quatrains",
+    "ID": 54,
+    "region": [
+        "unknown"
+    ]
+}

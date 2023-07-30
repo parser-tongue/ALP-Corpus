@@ -1,0 +1,24 @@
+{
+    "title": null,
+    "genre": "epigram",
+    "topic": [
+        "plants"
+    ],
+    "source": "Edimuster",
+    "raw_text": [
+        "Es geit e Heer i Garte...\n",
+        "U dä schysst.\n",
+        "\n",
+        "Är nimmt es Schübeli Nessle...\n",
+        "U das bysst.\n",
+        "\n",
+        "Hätt är ds Chrüttli besser gchennt...\n",
+        "Hätt är ds Füdli nid verbrönnt."
+    ],
+    "num_lines": 8,
+    "num_stanzas": 2,
+    "rhyme_scheme": "aa",
+    "stanza_pattern": "couplets",
+    "ID": 35,
+    "region": "Bern"
+}

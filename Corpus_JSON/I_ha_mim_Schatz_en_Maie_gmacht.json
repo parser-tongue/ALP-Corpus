@@ -1,0 +1,39 @@
+{
+    "title": null,
+    "genre": null,
+    "topic": [
+        "plants",
+        "love"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "I hä mim Schatz en Maie gmacht, \n",
+        "Er soll mer e hole am Samstig z' Nacht. \n",
+        "\n",
+        "I hän em dri tô Nägeli — \n",
+        "Es sei kei sübrers Chnäbeli. \n",
+        "\n",
+        "I hän em dri tô Zipereß, \n",
+        "Daß er miner nüd vergeß. \n",
+        "\n",
+        "I hän em dri tô Veielichrut — \n",
+        "iez hän i gmeint, i sei si Brut. \n",
+        "\n",
+        "I hän em dri tô Maiero - \n",
+        "Wie bin i doch so herzli frô ! \n",
+        "\n",
+        "I hän em dri tô Chillesoppe — \n",
+        "Er soll mer au chli nohe tôpe. \n",
+        "\n",
+        "I hän em dri tô Rosmari — \n",
+        "I hoff, er soll min eige si. \n"
+    ],
+    "num_lines": 20,
+    "num_stanzas": 6,
+    "rhyme_scheme": "aa",
+    "stanza_pattern": "couplets",
+    "ID": 85,
+    "region": [
+        "unknown"
+    ]
+}

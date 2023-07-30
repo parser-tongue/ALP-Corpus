@@ -1,0 +1,46 @@
+{
+    "title": null,
+    "genre": "musical",
+    "topic": [
+        "love"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Es ritt ein Reuter den Berg hinauf, Ade! \n",
+        "Sein Schätzli schaut zum Fenster hinaus. \n",
+        "Ade, Ade, Ade ! \n",
+        "\n",
+        "« Ach Schätzeli, laß dein Schauen sein, \n",
+        "Ich kann nicht allzeit bei dir sein.« \n",
+        "\n",
+        "Kannst du nicht allzeit bei mir sein. \n",
+        "So beut mir dein kleines Fingerlein! \n",
+        "\n",
+        "Nicht nur dein kleines Fingerlein: \n",
+        "Dazu dein artigs Händelein. \n",
+        "\n",
+        "Nicht nur dein artig Händelein: \n",
+        "Dazu dein rothes Mündelein. \n",
+        "\n",
+        "Und Mündelein beuten und das thut weh, \n",
+        "Wir beide scheiden nimmermehr. \n",
+        "\n",
+        "Und der uns scheidet das ist der Tod, \n",
+        "Er scheid't so manches Mündlein roth. \n",
+        "\n",
+        "Er scheid't so manches Kind aus der Wiegen — \n",
+        "Ach Schätzeli, darf ich bei dir liegen? \n",
+        "\n",
+        "Er scheid't so manchen Mann vom Weib, \n",
+        "Die Jahr und Tag beisammen sind. \n",
+        "Ade, Ade, Ade! \n"
+    ],
+    "num_lines": 28,
+    "num_stanzas": 8,
+    "rhyme_scheme": "aa",
+    "stanza_pattern": "irregular",
+    "ID": 99,
+    "region": [
+        "unknown"
+    ]
+}

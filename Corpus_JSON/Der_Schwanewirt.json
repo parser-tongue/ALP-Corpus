@@ -1,0 +1,49 @@
+{
+    "title": "Der Schwanewirt ",
+    "genre": "narrative",
+    "topic": [
+        "death",
+        "love",
+        "work"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Der Schwanewirt \n",
+        "\n",
+        "Der Schwanewirt sprung zum Thor hinaus, \n",
+        "Er Sprung dem Goldschmied in seis Haus : \n",
+        "« Ach Goldschmied, lieber Goldschmied mein. \n",
+        "Mach 's Uhrmachers Mägdlein ein Ringelein; \n",
+        "Mach er es frei hübsch und mach er es frei fein: \n",
+        "'s Uhrmachers Mägdli mueß im Schwanewittli sein. » \n",
+        "\n",
+        "Der Schwanewirt sprung zum Thor hinaus. \n",
+        "Und sprung dem Schuemacher in seis Haus : \n",
+        "« Ach Schuemacher, lieber Schuemacher mi, \n",
+        "Mach 's Uhrmachers Mägdli Pantöffeli ; \n",
+        "Mach em s' frei hübsch und mach em s' frei fein: \n",
+        "'s Uhrmachers Mägdli mueß im Schwanewittli sein. » \n",
+        "\n",
+        "Der Schwanewirt sprung zum Thor hinaus \n",
+        "Und Sprung dem Apitheker in seis Haus: \n",
+        "«Apitheker, lieber Apitheker mi, \n",
+        "Mach mir für ein Krüzer Gift dari.» \n",
+        "« O nei, o nei, das chan nit sei, \n",
+        "Du vergäbest deiner Liebste, der Anne Katherei. » \n",
+        "\n",
+        "Der Goldschmied sprung zum Thor hinaus \n",
+        "Und sprung dem Schriner in seis Haus: \n",
+        "« Ach Schriner, lieber Schriner mi, \n",
+        "Mach du mir iez eis Bäumeli; \n",
+        "Mach mer's frei hübsch und mach mer's frei fein, \n",
+        "'s Uhrmachers Mägdli mueß begraben sein.» \n"
+    ],
+    "num_lines": 27,
+    "num_stanzas": 3,
+    "rhyme_scheme": "aabbcc",
+    "stanza_pattern": "sestets",
+    "ID": 86,
+    "region": [
+        "Aargau"
+    ]
+}

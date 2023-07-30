@@ -1,0 +1,47 @@
+{
+    "title": "Gibe nid ab, gibe nid ab ",
+    "genre": "musical",
+    "topic": [
+        "love"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Gibe nid ab, gibe nid ab\n",
+        "\n",
+        "Gibe nid ab,\n",
+        "Gibe nid ab,\n",
+        "Bis i es schöns Schätzeli ha.\n",
+        "Gibe nid ab,\n",
+        "Gibe nid ab,\n",
+        "Bis i eis ha!\n",
+        "\n",
+        "Setzen e halb\n",
+        "Bätze drauf,\n",
+        "Bis i es schöns Schätzeli ha.    \n",
+        "Setzen e halb\n",
+        "Bätze drauf,\n",
+        "Bis i eis ha!\n",
+        "\n",
+        "D'Senn juze scho,\n",
+        "D'Gloggi ghört men oh,\n",
+        "D'Glungge tönt geng vora.\n",
+        "D'Senn juze scho,\n",
+        "D'Gloggi ghört men oh,\n",
+        "D'Glungge tönt vora.\n",
+        "\n",
+        "Jeze bin i froh,\n",
+        "Daß es isch so cho,\n",
+        "Daß i es schöns Schätzeli ha.\n",
+        "Jeze bin i froh,\n",
+        "Daß es isch so cho,\n",
+        "Daß i eis ha."
+    ],
+    "num_lines": 27,
+    "num_stanzas": 3,
+    "rhyme_scheme": "abcabc",
+    "stanza_pattern": "sestets",
+    "ID": 51,
+    "region": [
+        "Bern"
+    ]
+}
