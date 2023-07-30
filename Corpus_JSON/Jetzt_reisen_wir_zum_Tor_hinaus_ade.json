@@ -1,0 +1,44 @@
+{
+    "title": "Jetzt reisen wir zum Tor hinaus, ade!",
+    "genre": "musical",
+    "topic": [
+        "love",
+        "death"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Jetzt reisen wir zum Tor hinaus, ade!\n",
+        "\n",
+        "Jetzt reisen wir zum Tor hinaus, ade!\n",
+        "Schön Schätzeli schaut zum Fenster hinaus,\n",
+        "Ade! ade! ade!\n",
+        "\n",
+        "Ach Schätzeli laß dein Schauen sein, ade!\n",
+        "Ich kann nicht allzeit bei dir sein,\n",
+        "Ade! ade! ade!\n",
+        "\n",
+        "»Kannst du nicht allzeit bei mir sein, ade!\n",
+        "So reich mir deine Händelein,\n",
+        "Ade! ade! ade!«\n",
+        "\n",
+        "Und Händelein reichen und das tut weh, ade!\n",
+        "Wir beide scheiden nimmermehr,\n",
+        "Ade! ade! ade!\n",
+        "\n",
+        "»Und der uns scheidet, das ist der Tod, ade!\n",
+        "Er scheidet so manches Mündelein rot,\n",
+        "Ade! ade! ade!\n",
+        "\n",
+        "Er scheidet das Kind wohl von der Wiegen, dae!\n",
+        "- Ach Schätzeli, darf ich bei dir liegen?\n",
+        "Ade! ade! ade!"
+    ],
+    "num_lines": 23,
+    "num_stanzas": 5,
+    "rhyme_scheme": "aba",
+    "stanza_pattern": "tercets",
+    "ID": 130,
+    "region": [
+        "unknown"
+    ]
+}

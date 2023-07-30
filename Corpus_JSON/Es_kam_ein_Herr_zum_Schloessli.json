@@ -1,0 +1,37 @@
+{
+    "title": "Es kam ein Herr zum Schlößli",
+    "genre": "musical",
+    "topic": "family",
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Es kam ein Herr zum Schlößli\n",
+        "\n",
+        "Es kam ein Herr zum Schlößli\n",
+        "Uf einem schönen Rößli.\n",
+        "Da luegt die Frau zum Fenster us\n",
+        "Und sait: Der Mann isch nid bi Hus.\n",
+        "\n",
+        "'s isch niemen dheim als d'Chinder\n",
+        "Und 's Maitli uf der Winde.\n",
+        "Der Herr uf sinem Rößli\n",
+        "Sait zur der Frau im Schlößli:\n",
+        "\n",
+        "Sind's guete Kind, sind's böse Kind?\n",
+        "Ach, liebe Frau, sagt mir's geschwind!\n",
+        "Die Frau die sait: 's sind bösi Chind,\n",
+        "Sie folge der Mueter gar nit gschwind.\n",
+        "\n",
+        "Da sait der Herr: so reit ich heim,\n",
+        "Dergleichen Kinder brauch ich kein.\n",
+        "Und reit uf sinem Rößli\n",
+        "Weit weit enweg vom Schlößli."
+    ],
+    "num_lines": 19,
+    "num_stanzas": 3,
+    "rhyme_scheme": "irregular",
+    "stanza_pattern": "quatrains",
+    "ID": 123,
+    "region": [
+        "unknown"
+    ]
+}

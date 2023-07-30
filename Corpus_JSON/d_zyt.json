@@ -1,0 +1,33 @@
+{
+    "title": "D Zyt",
+    "genre": "epigram",
+    "topic": [
+        "death"
+    ],
+    "source": "Edimuster",
+    "raw_text": [
+        "D Zyt\n",
+        "\n",
+        "d zyt \n",
+        "isch wie nes meer \n",
+        "vo dunklem wasser \n",
+        "es heer \n",
+        "vo hälle stärne \n",
+        "me schöpft \n",
+        "e handvoll druus\n",
+        "\n",
+        "d zyt \n",
+        "isch wie nes fäld \n",
+        "en ändlosi wyti \n",
+        "voll stei \n",
+        "und bunte blueme \n",
+        "es ghört\n",
+        "e handbreit dir. \n"
+    ],
+    "num_lines": 15,
+    "num_stanzas": 1,
+    "rhyme_scheme": "abcbade",
+    "stanza_pattern": "septets",
+    "ID": 172,
+    "region": "Bern"
+}

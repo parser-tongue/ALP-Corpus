@@ -1,0 +1,39 @@
+{
+    "title": "Ist es denn auch wirklich wahr",
+    "genre": "historical",
+    "topic": [
+        "war"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Ist es denn auch wirklich wahr\n",
+        "\n",
+        "Ist es denn auch wirklich wahr,\n",
+        "Und was ich hab vernommen,\n",
+        "Daß so viele tausend Mann\n",
+        "Sind nach Rueßland kommen?\n",
+        "\n",
+        "Mit Kanonen, Stück und Schwert\n",
+        "Sind sie zum Streit versehen,\n",
+        "Viel zu Fuß und viel zu Pferd,\n",
+        "Die nach Rueßland gehen.\n",
+        "\n",
+        "Ein französischer Offizier\n",
+        "Spricht: Alles ist verloren.\n",
+        "Unsre schönen, jungen Leut\n",
+        "Sind um Schnee erfroren!\n",
+        "\n",
+        "Engelland und Spanien\n",
+        "Sie tuen Viktoria singen.\n",
+        "Ds Frankrich mueß zerrissen sein,\n",
+        "Sonst gibt's keinen Frieden!"
+    ],
+    "num_lines": 19,
+    "num_stanzas": 3,
+    "rhyme_scheme": "abcb",
+    "stanza_pattern": "quatrains",
+    "ID": 116,
+    "region": [
+        "unknown"
+    ]
+}

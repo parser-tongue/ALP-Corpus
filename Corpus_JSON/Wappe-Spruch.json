@@ -1,0 +1,36 @@
+{
+    "title": "Wappe-Spruch",
+    "genre": null,
+    "topic": [
+        "heimat"
+    ],
+    "source": "Edimuster",
+    "raw_text": [
+        "Wappe-Spruch\n",
+        "\n",
+        "Wär chunnt der stotzig Wäg z'düruuf \n",
+        "A Rosefälder düre, \n",
+        "Im glyche Trapp, \n",
+        "im glyche Schnuuf, \n",
+        "U streckt sy Zunge vüre? \n",
+        "Säg hurti, wär so gsatzlig geit \n",
+        "U fescht uf breite Talpe steit? \n",
+        "Wär isch es, wär? \n",
+        "Es isch der Bär, der Bärner Bär!\n",
+        "\n",
+        "Mi het ihm vür, er trappi \n",
+        "schwär, \n",
+        "Er chöm es bitzli gnietig, \n",
+        "Er sprängi nid, der Bärner Bär,\n",
+        "U syg nid übermüetig, \n",
+        "Er tanzi nid grad uf der Stell \n",
+        "U bsinn si zwuri, was er wöll –\n",
+        "So syg's eso!"
+    ],
+    "num_lines": 18,
+    "num_stanzas": 1,
+    "rhyme_scheme": "abcabddee",
+    "stanza_pattern": "nonets",
+    "ID": 142,
+    "region": "Bern"
+}
