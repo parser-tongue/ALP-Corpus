@@ -1,0 +1,37 @@
+{
+    "title": "Frisch fröhlich wend wir singen ",
+    "genre": null,
+    "topic": [
+        "drinking"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Frisch fröhlich wend wir singen\n",
+        "\n",
+        "Frisch fröhlich wend wir singen\n",
+        "ein fröhlich lidlin guet,\n",
+        "das eim durchs herz möcht dringen!\n",
+        "man mueß uns win's gnueg bringen,\n",
+        "drumb hand all' frischen muet!\n",
+        "\n",
+        "Herr wirt, kumm du vergeben,\n",
+        "mach numen uns guet gschirr!\n",
+        "wir wend in fröuden leben.\n",
+        "all truren lassen kleben,\n",
+        "trag numen redlich für!\n",
+        "\n",
+        "Du darfst dabi nit z'sorgen,\n",
+        "daß man dich überiil\n",
+        "mit gelt, du mußt uns borgen\n",
+        "noch etwan machen morgen,\n",
+        "wir hand noch lang derwiil."
+    ],
+    "num_lines": 17,
+    "num_stanzas": 2,
+    "rhyme_scheme": "irregular",
+    "stanza_pattern": "cinquains",
+    "ID": 4,
+    "region": [
+        "Bern"
+    ]
+}

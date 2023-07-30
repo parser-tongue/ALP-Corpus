@@ -1,0 +1,35 @@
+{
+    "title": "O, du liebs Aengeli, Rosmarinstängeli ",
+    "genre": "children",
+    "topic": null,
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "O, du liebs Aengeli, Rosmarinstängeli\n",
+        "\n",
+        "O du liebs Ängeli,\n",
+        "Rosmarinstängeli,\n",
+        "O du liebs Härzeli,\n",
+        "Tue du nit eso!\n",
+        "Zittre nit eso, tue nit eso,\n",
+        "Ds Hüsli fallt hüt nit um.\n",
+        "Zittre nit eso, tue nit eso,\n",
+        "Ds Hüsli fallt nit um.\n",
+        "\n",
+        "O du liebs Ängeli,\n",
+        "Rosmarinstängeli,\n",
+        "Alliwil, alliwil\n",
+        "Denk i an di!\n",
+        "Zittre nit eso, tue nit eso,\n",
+        "Ds Hüsli fallt hüt nit um.\n",
+        "Zittre nit eso, tue nit eso,\n",
+        "Ds Hüsli fallt nit um..."
+    ],
+    "num_lines": 17,
+    "num_stanzas": 1,
+    "rhyme_scheme": "aaabbcbc",
+    "stanza_pattern": "octets",
+    "ID": 19,
+    "region": [
+        "Bern"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Niedersingerlied ",
+    "genre": "musical",
+    "topic": [
+        "religion",
+        "marriage"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Niedersingerlied\n",
+        "\n",
+        "Wo kommt denn au der Ehstand her, \n",
+        "Wo Gott hat eingesetzt? \n",
+        "Hat guet gethan. \n",
+        "Wo Gott der Ehstand hat eingesetzt, \n",
+        "Hat er uß Wasser Wein gemacht, \n",
+        "In Galiläa. \n",
+        "\n",
+        "Paulus spricht den Ehstand guet, \n",
+        "Wem-mere recht halte thuet; \n",
+        "Ist schon gethan. \n",
+        "Mer wünsche euch, ihr Hochzeitleut, \n",
+        "Viel Glück und Sege, \n",
+        "Das wünsche mer euch. \n",
+        "\n",
+        "Mer wünsche euch, ihr Hochzeitleut, \n",
+        "Es Wiegeli und im ene Jahr \n",
+        "Es Chind darein. \n",
+        "Mer wünsche euch e guete Nacht, \n",
+        "Daß ihr der Ehstand recht antrat't — \n",
+        "Das wünsche mer euch. \n"
+    ],
+    "num_lines": 20,
+    "num_stanzas": 2,
+    "rhyme_scheme": "irregular",
+    "stanza_pattern": "sestets",
+    "ID": 1,
+    "region": [
+        "Luzern"
+    ]
+}

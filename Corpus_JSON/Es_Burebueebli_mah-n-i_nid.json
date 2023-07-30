@@ -1,0 +1,41 @@
+{
+    "title": "Es Burebüebli mah-n-i nid ",
+    "genre": "musical",
+    "topic": [
+        "death",
+        "love"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Es Burebüebli mah-n-i nid\n",
+        "\n",
+        "Es Burebüebli mah-n-i nid,\n",
+        "Das gseht mer mir wohl a, juhe!\n",
+        "Fideri, fidera, fiderallalla --\n",
+        "Das gseht mer mir wohl a.\n",
+        "\n",
+        "'s mueß Eine si gar hübsch u fin\n",
+        "Darf keini Fähler ha, juhe!\n",
+        "Fideri, fidera, fiderallalla --\n",
+        "Darf keini Fähler ha. \n",
+        "\n",
+        "Und herebüebli git's ja nid,\n",
+        "Wo keini Fähler hei, juhe!\n",
+        "Fideri, fidera, fiderallalla --\n",
+        "Wo keini Fähler hei.\n",
+        "\n",
+        "Drum bliben-i ledig bis in den Tod,\n",
+        "So het die Lieb es Änd, juhe!\n",
+        "Fideri, fidera, fiderallalla --\n",
+        "So het die Lieb es Änd."
+    ],
+    "num_lines": 19,
+    "num_stanzas": 3,
+    "rhyme_scheme": "abcc",
+    "stanza_pattern": "quatrains",
+    "ID": 11,
+    "region": [
+        "Bern",
+        "Luzern"
+    ]
+}
