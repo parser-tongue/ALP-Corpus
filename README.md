@@ -15,3 +15,13 @@ The full pipeline of the project runs in this order:
 6. **Embedded_Topic_Model.ipynb** set up and models the topics. Code for the last hyperparameter sweep configuration is still present.
 
 The remaining files are called by various functions. 
+
+The ArchiMob corpus on which the Normalizer is trained is available here:
+https://drive.switch.ch/index.php/s/vYZv9sNKetuPYTn
+
+The resources used for augmenting the MFR procedure are available online:
+- WUS https://drive.switch.ch/index.php/s/chlu1xuLzfQ0kBi
+- Bilexicon https://github.com/mainlp/dialect-BLI/blob/main/bli_data/bilexicon/als/bilexicon.csv
+
+Additionally, I have provided a Google Drive with pre-trained embeddings as KeyedVectors, as well as the pre-trained Normalizer used. 
+https://drive.google.com/drive/folders/1eXGLqmpj-HPLrI0hue45Y6jAjISuoE6H?usp=sharing
