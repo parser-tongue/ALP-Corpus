@@ -25,3 +25,5 @@ The resources used for augmenting the MFR procedure are available online:
 
 Additionally, I have provided a Google Drive with pre-trained embeddings as KeyedVectors, as well as the pre-trained Normalizer used. 
 https://drive.google.com/drive/folders/1eXGLqmpj-HPLrI0hue45Y6jAjISuoE6H?usp=sharing
+
+All of the above resources are best placed in the same local repository so that the notebooks all running fine. 
