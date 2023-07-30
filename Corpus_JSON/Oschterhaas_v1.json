@@ -1,0 +1,36 @@
+{
+    "title": "Oschterhaas",
+    "genre": "musical",
+    "topic": [
+        "animals"
+    ],
+    "source": "Edimuster",
+    "raw_text": [
+        "Oschterhaas\n",
+        "\n",
+        "Trap, trap, trap, wär steit am Tor?\n",
+        "Trap, trap, trap, wär spitzt sys Ohr?\n",
+        "Wär vertrappet ds höche Gras?\n",
+        "Isch’s ächt emänd dr Oschterhaas?\n",
+        "\n",
+        "«Guete Tag, Frou Hüehnermueter,\n",
+        "suechet dir gar flyssig Fueter?»\n",
+        "\n",
+        "«Ja, ja, ds Läbe bringt eim mängi Müeh,\n",
+        "i muess Würmli füre chratze\n",
+        "Chörnli rette vor de Spatze,\n",
+        "Eier lege u se brüete\n",
+        "u derzue die chline Bibeli hüete.»\n",
+        "\n",
+        "«U der Güggu, isch är zwäg?»\n",
+        "«Ja, ja, dä isch ou umewäg.\n",
+        "i weiss nid was är z chraue hett,\n",
+        "dert i Schätzelis Rüeblibett!»\n"
+    ],
+    "num_lines": 20,
+    "num_stanzas": 3,
+    "rhyme_scheme": "irregular",
+    "stanza_pattern": "irregular",
+    "ID": 201,
+    "region": "Bern"
+}

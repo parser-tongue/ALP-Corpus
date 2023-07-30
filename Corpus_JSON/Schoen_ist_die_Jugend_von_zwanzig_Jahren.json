@@ -1,0 +1,50 @@
+{
+    "title": "Schön ist die Jugend von zwanzig Jahren",
+    "genre": "musical",
+    "topic": [
+        "love",
+        "death"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Schön ist die Jugend von zwanzig Jahren\n",
+        "\n",
+        "Schön ist die Jugend von zwanzig Jahren,\n",
+        "Schön ist die Jugend, sie kommt nicht mehr.\n",
+        "Sie kommt, sie kommt nicht mehr,\n",
+        "Auf ewig nimmermehr,\n",
+        "Schön ist die Jugend, sie kommt nicht mehr.\n",
+        "\n",
+        "Ich weiß ein Weinstock und der trägt Reben,\n",
+        "Und aus den Trauben da kommt der Wein.\n",
+        "Drum sag ich noch einmal:\n",
+        "Schön sind die Jugendjahr,\n",
+        "Schön ist die Jugend, sie kommt nicht mehr.\n",
+        "\n",
+        "Ich weiß ein Rosenstock und der trägt Rosen,\n",
+        "Und aus den Rosen da kommt der Duft.\n",
+        "Drum sag ich's noch einmal:\n",
+        "Schön sind die Jugendjahr,\n",
+        "Schön ist die Jugend, sie kommt nicht mehr.\n",
+        "\n",
+        "Ich liebt ein Mädchen von zwanzig Jahren,\n",
+        "Ich liebt ein Mädchen zum Zeitvertreib.\n",
+        "Drum sag ich's noch einmal:\n",
+        "Schön sind die Zwänzgerjahr,\n",
+        "Schön ist die Jugend, sie kommt nicht mehr.\n",
+        "\n",
+        "Schön ist die Jugend bei frohen Zeiten,\n",
+        "Schön ist die Jugend, die goldne Zeit.\n",
+        "Drum sag ich's noch einmal:\n",
+        "Schön sind die Jugendjahr,\n",
+        "Schön ist die Jugend, die goldne Zeit."
+    ],
+    "num_lines": 29,
+    "num_stanzas": 4,
+    "rhyme_scheme": "abcde",
+    "stanza_pattern": "cinquains",
+    "ID": 224,
+    "region": [
+        "unknown"
+    ]
+}

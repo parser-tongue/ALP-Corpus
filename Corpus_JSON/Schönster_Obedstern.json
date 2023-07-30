@@ -1,0 +1,44 @@
+{
+    "title": "Schönster Obedstern ",
+    "genre": "musical",
+    "topic": [
+        "love",
+        "plants"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Schönster Obedstern\n",
+        "\n",
+        "Schönster Obedstern ! \n",
+        "Ei, wie gse-n-ich dich so gern ! \n",
+        "Wenn ich dich vo Witem gse, \n",
+        "Denkt mein Herz, du seist bi mir. \n",
+        "Schönste, weine nicht, ich bin verliebt mit dir\n",
+        "\n",
+        "Schönste Tulipan ! \n",
+        "Dini Schönheit lacht mich an. \n",
+        "'s ist kei schönri uf der Welt, \n",
+        "Die mim Herze besser g'fällt. \n",
+        "Schönste, weine nicht, ich bin verliebt mit dir\n",
+        "\n",
+        "Schönstes Röseli rot! \n",
+        "Will dich liebe bis i'n Tod. \n",
+        "Will dich liebe us Harzes Grund, \n",
+        "Will dich liebe Tag und Stund. \n",
+        "Schönste, weine nicht, ich bin verliebt mit dir\n",
+        "\n",
+        "Schönstes Röseli mein ! \n",
+        "Chönt ich ellei chlei bei dir sein \n",
+        "Du bist mein und ich bin dein, \n",
+        "Keines andern Heber sein. \n",
+        "Schönste, weine nicht, ich bin verliebt mit dir"
+    ],
+    "num_lines": 23,
+    "num_stanzas": 3,
+    "rhyme_scheme": "irregular",
+    "stanza_pattern": "cinquains",
+    "ID": 218,
+    "region": [
+        "Zurich"
+    ]
+}

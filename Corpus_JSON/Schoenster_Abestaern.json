@@ -1,0 +1,48 @@
+{
+    "title": "Schönster Abestärn ",
+    "genre": "musical",
+    "topic": [
+        "love",
+        "marriage"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "Schönster Abestärn\n",
+        "\n",
+        "Schönster Abestärn,\n",
+        "O wie gsehn i di so gärn.\n",
+        "Wenn i di vo Witem gseh,\n",
+        "Düecht's mi, wenn i scho bi der wär.\n",
+        "Schönstes, weine nicht,\n",
+        "Ich bin verliebt mit dir.\n",
+        "\n",
+        "Schönstes Röseli rot,\n",
+        "Könnt i di lieben bis in den Tod,\n",
+        "Könnt i di lieben e Viertelstund,\n",
+        "So würd mein krankes Härzeli gsund.\n",
+        "Schönstes, weine nicht,\n",
+        "Ich bin verliebt mit dir.     \n",
+        "\n",
+        "Schönster Tulipa,\n",
+        "Deine Schönheit lacht mi a,\n",
+        "Du bist der Schönste uf dieser Welt,\n",
+        "Der meinem Herzen so wohlgefällt.\n",
+        "Schönstes, weine nicht,\n",
+        "Ich bin verliebt mit dir.\n",
+        "\n",
+        "Mitten in der Nacht\n",
+        "Hei i u mis Schätzeli der Ehbund gemacht.\n",
+        "Mir hei ne gmacht i're halbe Stund,\n",
+        "Mir hei ne bschlosse vo Herzensgrund.\n",
+        "Schönstes, weine nicht,\n",
+        "Ich bin verliebt mit dir."
+    ],
+    "num_lines": 27,
+    "num_stanzas": 3,
+    "rhyme_scheme": "irregular",
+    "stanza_pattern": "sestets",
+    "ID": 214,
+    "region": [
+        "Bern"
+    ]
+}

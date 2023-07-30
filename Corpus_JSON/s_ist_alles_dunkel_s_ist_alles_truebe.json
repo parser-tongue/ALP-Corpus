@@ -1,0 +1,40 @@
+{
+    "title": "s'ist alles dunkel, s'ist alles trübe ",
+    "genre": null,
+    "topic": [
+        "love",
+        "death"
+    ],
+    "source": "Im Röseligarte",
+    "raw_text": [
+        "s'ist alles dunkel, s'ist alles trübe \n",
+        "\n",
+        "'s ist alles dunkel, 's ist alles trübe,\n",
+        "Dieweil mein Schatz, ein andern liebt.\n",
+        "Ich hab geglaubt, sie liebet mich.\n",
+        "Aber nein, aber nein, sie hasset mich.\n",
+        "\n",
+        "Was nützet mir mein schöner Garten,\n",
+        "Wenn andre drin spazieren gehn\n",
+        "Und pflücken mir die Rosen ab,\n",
+        "Woran ich meine Freude hab!\n",
+        "\n",
+        "Was nützet mir ein schönes Mädchen,\n",
+        "Wenn andre mit spazieren gehn\n",
+        "Und küssen ihr die Schönheit ab,\n",
+        "Woran ich meine Freude hab!\n",
+        "\n",
+        "Bald kommen nun die schwarzen Brüder,\n",
+        "Die tragen mich zum Tor hinaus\n",
+        "Und legen mich ins kühle Grab,\n",
+        "Worin ich ewig Ruhe hab."
+    ],
+    "num_lines": 19,
+    "num_stanzas": 3,
+    "rhyme_scheme": "abcd",
+    "stanza_pattern": "quatrains",
+    "ID": 188,
+    "region": [
+        "Bern"
+    ]
+}

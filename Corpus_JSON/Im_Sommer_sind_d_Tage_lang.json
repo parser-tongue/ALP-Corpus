@@ -1,0 +1,37 @@
+{
+    "title": null,
+    "genre": null,
+    "topic": [
+        "love"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Im Sommer sind d' Tage lang, \n",
+        "Fürus im Maie: \n",
+        "Ach, du mein herziger Schatz, \n",
+        "Mach mir ein Maie. \n",
+        "\n",
+        "Ein Maie mach i dir nüd, \n",
+        "'s brächt mir ein Schande : \n",
+        "Will mit der, wo du witt, \n",
+        "In frömdi Lande, \n",
+        "\n",
+        "In frömdi Lande gô, \n",
+        "Wend Alls erfahre. \n",
+        "Wenn i bei dir schlofe chönt, \n",
+        "Wett's au nüd spare. \n",
+        "\n",
+        "Drü brauni Nägeli, \n",
+        "Goldgeli Side — \n",
+        "Und wo mein Schatz nüd ist, \n",
+        "Hab ich kei Blibe. \n"
+    ],
+    "num_lines": 19,
+    "num_stanzas": 3,
+    "rhyme_scheme": "abcb",
+    "stanza_pattern": "quatrains",
+    "ID": 182,
+    "region": [
+        "unknown"
+    ]
+}

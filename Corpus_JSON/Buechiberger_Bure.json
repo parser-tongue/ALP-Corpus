@@ -1,0 +1,40 @@
+{
+    "title": "Die Buechiberger Bure ",
+    "genre": null,
+    "topic": [
+        "heimat",
+        "daily life"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Die Buechiberger Bure\n",
+        "\n",
+        "Die Buechiberger Bure \n",
+        "Hei sidig Hosen a, \n",
+        "Mit Zwilchen überzoge \n",
+        "Und Charesalbi dra. \n",
+        "\n",
+        "Die Buechiberger Amme \n",
+        "Hei feißi Wibleni, \n",
+        "Die choche Speck und Hamme \n",
+        "Und fuere d' Büebleni. \n",
+        "\n",
+        "Die Buechiberger Meitschi \n",
+        "Si wie Milch und Bluet, \n",
+        "Und git es albe Hochzit, \n",
+        "Hei si brav Wiberguet. \n",
+        "\n",
+        "Do fingsch nit wiße Händli, \n",
+        "Do fingsch kei bleiche Zwerg. \n",
+        "Drum lebe hoch das Ländli, \n",
+        "Das schöni Buechiberg. \n"
+    ],
+    "num_lines": 19,
+    "num_stanzas": 3,
+    "rhyme_scheme": "abab",
+    "stanza_pattern": "quatrains",
+    "ID": 211,
+    "region": [
+        "Solothurn"
+    ]
+}

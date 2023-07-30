@@ -1,0 +1,32 @@
+{
+    "title": null,
+    "genre": null,
+    "topic": [
+        "religion"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Dört obe, dört obe vor der himlische Tür, \n",
+        "Do sitzt eine arme Seele derfür. \n",
+        "\n",
+        "«Du armi Seel, warum trurist so sehr?» \n",
+        "«Warum sott i nit trure, du güetiger Her? \n",
+        "\n",
+        "Wenn an hei Gott im Himel will sitze, \n",
+        "So mues me uf Erde Bluetstropfe schwitze, \n",
+        "\n",
+        "Bluetströpfli, Bluetströpfli so wiß als wie Schnee: \n",
+        "O laß mi zue dir i din Himel ingen.» \n",
+        "\n",
+        "« Chom, armi Seel, hast grungen und gschwitzt, \n",
+        "Chom herein und sitz wo de Lazarus sitzt. « \n"
+    ],
+    "num_lines": 14,
+    "num_stanzas": 4,
+    "rhyme_scheme": "irregular",
+    "stanza_pattern": "couplets",
+    "ID": 247,
+    "region": [
+        "Bern"
+    ]
+}

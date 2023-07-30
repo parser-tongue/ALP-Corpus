@@ -1,0 +1,40 @@
+{
+    "title": "I han es Hämpfeli Haber g'streut ",
+    "genre": null,
+    "topic": [
+        "love"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "I han es Hämpfeli Haber g'streut\n",
+        "\n",
+        "I han es Hämpfeli Haber g'streut, \n",
+        "Do chund de Wind und het's vertreit. \n",
+        "\n",
+        "Dert oben uf dem Bergeli, \n",
+        "Dert stad en artigs Hüseli. \n",
+        "\n",
+        "Und i dem artige Hüseli, \n",
+        "Dort wont mis herzig Schätzeli. \n",
+        "\n",
+        "Min Vater balget mi alli Tag, \n",
+        "Daß ich es artigs Schätzeli ha. \n",
+        "\n",
+        "Ach Vater, laß das Balge si. \n",
+        "Es hilft kei gottigs Bitzeli. \n",
+        "\n",
+        "Am Sundig wem-mer zum Pfarrer ga: \n",
+        "Er seid, i hei en rechte Ma; \n",
+        "\n",
+        "Er sei nüd z' chli und sei nüd z' groß, \n",
+        "Er schick si ordeli uf mi Schoß. \n"
+    ],
+    "num_lines": 20,
+    "num_stanzas": 6,
+    "rhyme_scheme": "aa",
+    "stanza_pattern": "couplets",
+    "ID": 269,
+    "region": [
+        "Zurich"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Ça ira!",
+    "genre": null,
+    "topic": [
+        "war"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Ça ira!\n",
+        "\n",
+        "Saira - saira - sairassa ! \n",
+        "Geld ist besser als Assigna \n",
+        "Assigna ist Lumpegeld; \n",
+        "Patriote ziehnd i's Feld, \n",
+        "Ohni Strumpf und ohni Schue \n",
+        "Laufed sie der Heimet zue. \n",
+        "Gell du, Mueter, 's ist kei Sund, \n",
+        "Wenn nie Saira Saira singt? \n",
+        "Saira Saira mues me singe, \n",
+        "Wenn me will zum Kaiser springe. \n",
+        "\n"
+    ],
+    "num_lines": 10,
+    "num_stanzas": 1,
+    "rhyme_scheme": "aabbccdeff",
+    "stanza_pattern": "other",
+    "ID": 254,
+    "region": [
+        "unknown"
+    ]
+}

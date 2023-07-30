@@ -1,0 +1,50 @@
+{
+    "title": "Chelleländer Spinnerliedli ",
+    "genre": "musical",
+    "topic": [
+        "daily life",
+        "heimat"
+    ],
+    "source": "Tobler",
+    "raw_text": [
+        "Chelleländer Spinnerliedli\n",
+        "\n",
+        "Schnurre, schnurre-n-um und um, \n",
+        "Rädli, trüll di umme; \n",
+        "Euseri Sach gabt schüli chrumm, \n",
+        "D' Leue thüend scho brumme. \n",
+        "\n",
+        "Chume grad iez us der Stadt, \n",
+        "Mit mim Wib und Chindre; \n",
+        "Ha mit General Andermatt \n",
+        "Züri welle plündre. \n",
+        "\n",
+        "Wunder für ganz Chelleland \n",
+        "Häm-mer welle hole, \n",
+        "Gold und Silber, Diamant, \n",
+        "Alli Säck ganz volle. \n",
+        "\n",
+        "Doch vergebis vor der Stadt \n",
+        "Sim-mer alli gsesse, \n",
+        "Wil de ungschickt Andermatt \n",
+        "D' Chugle hat vergesse. \n",
+        "\n",
+        "Mini Säck die trag i hei, \n",
+        "Leer vun alle Schätze, \n",
+        "Langi Nase, müedi Bei, \n",
+        "Und die alte Fetze. \n",
+        "\n",
+        "Schnurre, schnurre-n-um und um, \n",
+        "Rädli, trüll di umme; \n",
+        "'s ist mer grad iez nümme drum, \n",
+        "Züri z' biribumme. "
+    ],
+    "num_lines": 29,
+    "num_stanzas": 5,
+    "rhyme_scheme": "abcb",
+    "stanza_pattern": "quatrains",
+    "ID": 184,
+    "region": [
+        "Zurich"
+    ]
+}
