@@ -1,0 +1,28 @@
+{
+    "title": "ds Bärner Oberland isch schön (ds Vogellisi)",
+    "genre": "musical",
+    "topic": [
+        "heimat"
+    ],
+    "source": "Edimuster",
+    "raw_text": [
+        "ds Bärner Oberland isch schön (ds Vogellisi)\n",
+        "\n",
+        "wen-i nume wüsst, \n",
+        "wo ds Vogu-Lisi wär. \n",
+        "ds Vogu-Lisi chunnt vo Adelbode här. \n",
+        "Adelbode isch im Bärner Oberland. \n",
+        "ds Bärner Oberland isch schön. \n",
+        "ds Oberland, ja ds Oberland, \n",
+        "ds Bärner Oberland isch schön. \n",
+        "ds Oberland, ja ds Oberland, \n",
+        "ds Bärner Oberland isch schön.",
+        "\n"
+    ],
+    "num_lines": 9,
+    "num_stanzas": 1,
+    "rhyme_scheme": "abbcdcdcd",
+    "stanza_pattern": "nonets",
+    "ID": 264,
+    "region": "Bern"
+}
