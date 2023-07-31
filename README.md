@@ -27,3 +27,6 @@ Additionally, I have provided a Google Drive with pre-trained embeddings as Keye
 https://drive.google.com/drive/folders/1eXGLqmpj-HPLrI0hue45Y6jAjISuoE6H?usp=sharing
 
 All of the above resources are best placed in the same local repository so that the notebooks all run properly. 
+
+The full paper is hosted here too:
+[msc-samuel-reed-12180974.pdf](https://github.com/parser-tongue/ALP-Corpus/files/12213151/msc-samuel-reed-12180974.pdf)
