@@ -12,7 +12,7 @@ The full pipeline of the project runs in this order:
 3. **Load_Training_Corpora.ipynb** Gets the training corpora for the dialect Normalizer and calculates the baseline ERR
 4. **Train_Normalizer.ipynb** trains and saves the normalizer
 5. **Test_Normalizer.ipynb** normalizes the ALP corpus of folk songs
-6. **Embedded_Topic_Model.ipynb** sets up and models the topics. Code for the hyperparameter sweep configuration is included *(private file - please contact me for access)*.
+6. **Embedded_Topic_Model.ipynb** sets up and models the topics. Code for the Weights & Biases hyperparameter sweep configuration is included *(private file - please contact me for access)*.
 
 The remaining python scripts are called by various functions. 
 
